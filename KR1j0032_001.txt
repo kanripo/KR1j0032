@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 班馬字類附補遺
-#+DATE: 2015-09-23 09:41:13
+#+DATE: 2015-09-12 00:40:25.593873
+#+PROPERTY: ID KR1j0032
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 1
+#+PROPERTY: FILE SB09n0691-001班馬字類附補遺-卷一.
 <pb:KR1j0032_SBCK_001-1a>¶
 班馬字&KR0011;第一¶
 上平聲(補遺附)¶
@@ -650,4 +654,3 @@
 斒(史記司馬相如傳璸丨又/鱗丨亦班字玢璸並音彬)¶
 班馬字&KR0011;第一¶
 <pb:KR1j0032_SBCK_001-47a>¶
-

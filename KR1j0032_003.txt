@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 班馬字類附補遺
-#+DATE: 2015-09-23 09:41:13
+#+DATE: 2015-09-12 00:40:25.694672
+#+PROPERTY: ID KR1j0032
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 3
+#+PROPERTY: FILE SB09n0691-003班馬字類附補遺-卷三.
 <pb:KR1j0032_SBCK_003-1a>¶
 班馬字&KR0011;第三¶
 上聲(補遺附)¶
@@ -609,4 +613,3 @@
 檻(史記陳丞相世家樊噲丨車傳詣長安漢/書張耳傳乃丨車與王詣長安餘傳作轞)¶
 班馬字&KR0011;第三¶
 <pb:KR1j0032_SBCK_003-41a>¶
-

@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 班馬字類附補遺
-#+DATE: 2015-09-23 09:41:13
+#+DATE: 2015-09-12 00:40:25.644178
+#+PROPERTY: ID KR1j0032
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 2
+#+PROPERTY: FILE SB09n0691-002班馬字類附補遺-卷二.
 <pb:KR1j0032_SBCK_002-1a>¶
 班馬字&KR0011;第二¶
 下平聲(補遺附)¶
@@ -624,4 +628,3 @@
 補遺¶
 氾(史記周紀鄭居王于丨匈奴傳鄭之丨邑音凡/漢書藝文志丨勝之十八篇音凡又敷劒反)¶
 班馬字&KR0011;第二¶
-

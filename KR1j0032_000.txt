@@ -1,7 +1,11 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 班馬字類附補遺
-#+DATE: 2015-09-23 09:41:13
+#+DATE: 2015-09-12 00:40:25.560760
+#+PROPERTY: ID KR1j0032
+#+PROPERTY: BASEEDITION SBCK    
+#+PROPERTY: WITNESS SBCK
 #+PROPERTY: JUAN 0
+#+PROPERTY: FILE SB09n0691-000班馬字類附補遺-序.
 <pb:KR1j0032_SBCK_000-1a>¶
 陶叔獻繼之於是程氏誨&KR0170;陳氏六帖與¶
 夫摘奇博聞諸書錯出並見而予亦綴¶
@@ -73,4 +77,3 @@
 以便學者之觀覧亦　郷先生婁公之志¶
 也補或未盡尚俟來者㬌定甲子長至¶
 日覃懐李曾伯書¶
-
